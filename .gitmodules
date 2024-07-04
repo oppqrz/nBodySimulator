@@ -1,0 +1,15 @@
+[submodule "ROOT-nBodySimulator"]
+	path = ROOT-nBodySimulator
+	url = https://github.com/oppqrz/ROOT-nBodySimulator
+[submodule "c-nBodySimulator"]
+	path = c-nBodySimulator
+	url = https://github.com/oppqrz/c-nBodySimulator
+[submodule "cpp-nBodySimulator"]
+	path = cpp-nBodySimulator
+	url = https://github.com/oppqrz/cpp-nBodySimulator
+[submodule "go-nBodySimulator"]
+	path = go-nBodySimulator
+	url = https://github.com/oppqrz/go-nBodySimulator
+[submodule "python-nBodySimulator"]
+	path = python-nBodySimulator
+	url = https://github.com/oppqrz/python-nBodySimulator
