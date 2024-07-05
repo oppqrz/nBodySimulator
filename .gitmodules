@@ -16,3 +16,6 @@
 [submodule "csharp-nBodySimulator"]
 	path = csharp-nBodySimulator
 	url = https://github.com/oppqrz/csharp-nBodySimulator
+[submodule "rust-nBodySimulator"]
+	path = rust-nBodySimulator
+	url = https://github.com/oppqrz/rust-nBodySimulator
