@@ -13,3 +13,6 @@
 [submodule "python-nBodySimulator"]
 	path = python-nBodySimulator
 	url = https://github.com/oppqrz/python-nBodySimulator
+[submodule "csharp-nBodySimulator"]
+	path = csharp-nBodySimulator
+	url = https://github.com/oppqrz/csharp-nBodySimulator
